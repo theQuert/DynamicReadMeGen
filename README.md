@@ -1,4 +1,4 @@
-### ReadMeSync
+# ReadMeSync
 
 **ReadMeSync** is an innovative tool designed to bridge the gap between code changes and documentation. This project is built on the principle that up-to-date documentation is crucial for effective software development and maintenance. With **ReadMeSync**, every commit you make is an opportunity to enhance your README, ensuring that it accurately reflects the current state of your project.
 
